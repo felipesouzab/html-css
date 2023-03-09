@@ -6,4 +6,4 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
 Segue o link:
 <a href="https://felipesouzab.github.io/html-css/exercicios/ex001/index.html" target='_blank'>Executar o exercicio 001</a>
 
-Segue o link Media Query ex 002: https://felipesouzab.github.io/html-css/exercicios/ex026/mq002/index.html
+Segue o link Media Query ex 002: https://felipesouzab.github.io/html-css/exercicios/ex026/mq002
